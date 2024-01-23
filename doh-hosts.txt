@@ -13,3 +13,5 @@ dns.rubyfish.cn
 doh.dnswarden.com
 doh.captnemo.in
 doh.tiar.app
+doh.opendns.com
+doh.familyshield.opendns.com
